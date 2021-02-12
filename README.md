@@ -9,8 +9,14 @@ serial_port - This is the path to the serial port. This usually takes a form lik
 output_file - File to output data to
 
 (A), (B) UTC: (C) N, (D) E, (E) kts heading (F) degrees
+
 A - The date in UTC format (ddmmyy).
+
 B - The UTC time.
+
 C & D - The latitude and longitude in dddmm.mmmm format.
+
 E - Speed in knots.
+
 F - Course in degrees.
+
